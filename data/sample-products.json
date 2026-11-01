@@ -1,0 +1,469 @@
+{
+ "products": [
+  {
+   "slug": "mini-mochi-squishy",
+   "category": "squishies",
+   "name_en": "Mini Squishy – Mochi Blob",
+   "name_ar": "سكويشي ميني – موتشي",
+   "description_en": "A tiny, soft mochi-style squishy with a sleepy smile. Squeeze it, stretch it, take it everywhere. Colours may vary slightly.",
+   "description_ar": "سكويشي صغير وناعم على شكل موتشي بابتسامة نعسانة. اعصره وشدّه وخذه وياك وين ما تروح. الألوان ممكن تختلف شوية.",
+   "price": 5000,
+   "sale_price": null,
+   "cost": 2750,
+   "stock": 120,
+   "featured": true,
+   "best_seller": true,
+   "days_ago": 40,
+   "art": {
+    "kind": "squishy-mochi",
+    "bg": "yellow",
+    "body": "#FFC2D7",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "peach-squishy",
+   "category": "squishies",
+   "name_en": "Peachy Pop Squishy",
+   "name_ar": "سكويشي الخوخة اللطيفة",
+   "description_en": "A cheerful little peach with a leafy top. Soft to squeeze and fun to collect.",
+   "description_ar": "خوخة صغيرة مرحة بورقة خضراء. طرية للعصر وحلوة للجمع.",
+   "price": 6000,
+   "sale_price": null,
+   "cost": 3250,
+   "stock": 85,
+   "featured": false,
+   "best_seller": true,
+   "days_ago": 35,
+   "art": {
+    "kind": "squishy-peach",
+    "bg": "blue",
+    "body": "#FFB38A",
+    "accent": "#8EE3C8"
+   }
+  },
+  {
+   "slug": "sprinkle-donut-squishy",
+   "category": "squishies",
+   "name_en": "Sprinkle Donut Squishy",
+   "name_ar": "سكويشي دونات بالرشّات",
+   "description_en": "A squishy donut with pink icing and colourful sprinkles. Looks sweet, feels even sweeter.",
+   "description_ar": "دونات سكويشي بطبقة وردية ورشّات ملونة. شكله حلو وملمسه أحلى.",
+   "price": 5500,
+   "sale_price": 4500,
+   "cost": 3000,
+   "stock": 64,
+   "featured": true,
+   "best_seller": false,
+   "days_ago": 20,
+   "art": {
+    "kind": "squishy-donut",
+    "bg": "purple",
+    "body": "#F2C48D",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "kitty-paw-squishy",
+   "category": "squishies",
+   "name_en": "Kitty Paw Squishy",
+   "name_ar": "سكويشي كفّ القطة",
+   "description_en": "A big, soft kitty paw with tiny toe beans. Perfect for squeezing after a long day.",
+   "description_ar": "كفّ قطة كبيرة وناعمة بوسادات صغيرة. تحفة للعصر بعد يوم طويل.",
+   "price": 7000,
+   "sale_price": null,
+   "cost": 3850,
+   "stock": 48,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 9,
+   "art": {
+    "kind": "squishy-paw",
+    "bg": "pink",
+    "body": "#CBB8FF",
+    "accent": "#A78BFA"
+   }
+  },
+  {
+   "slug": "bubble-tea-squishy",
+   "category": "squishies",
+   "name_en": "Bubble Tea Squishy",
+   "name_ar": "سكويشي بوبا تي",
+   "description_en": "A cute bubble tea cup squishy with a smiley face and a tall straw.",
+   "description_ar": "كوب بوبا تي سكويشي بوجه مبتسم وقصبة طويلة.",
+   "price": 6500,
+   "sale_price": null,
+   "cost": 3500,
+   "stock": 52,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 4,
+   "art": {
+    "kind": "squishy-boba",
+    "bg": "cream",
+    "body": "#E8C9A0",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "plush-keychain-bear",
+   "category": "plushies",
+   "name_en": "Cute Plush Keychain – Bear",
+   "name_ar": "ميدالية دمية دبدوب لطيفة",
+   "description_en": "A pocket-sized bear plush on a metal keyring. Clip it to a bag, a pencil case or your keys.",
+   "description_ar": "دبدوب صغير بحجم الجيب على حلقة معدنية. علّقه بالشنطة أو المقلمة أو المفاتيح.",
+   "price": 10000,
+   "sale_price": null,
+   "cost": 5500,
+   "stock": 70,
+   "featured": true,
+   "best_seller": true,
+   "days_ago": 30,
+   "art": {
+    "kind": "keychain-bear",
+    "bg": "blue",
+    "body": "#D9A679",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "plush-keychain-bunny",
+   "category": "plushies",
+   "name_en": "Cute Plush Keychain – Bunny",
+   "name_ar": "ميدالية دمية أرنب لطيفة",
+   "description_en": "A fluffy little bunny with long ears, ready to hang on your bag.",
+   "description_ar": "أرنب صغير ناعم بأذان طويلة، جاهز يتعلّق بشنطتك.",
+   "price": 10000,
+   "sale_price": null,
+   "cost": 5500,
+   "stock": 66,
+   "featured": false,
+   "best_seller": true,
+   "days_ago": 28,
+   "art": {
+    "kind": "keychain-bunny",
+    "bg": "pink",
+    "body": "#FFF4E0",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "large-teddy-plush",
+   "category": "plushies",
+   "name_en": "Large Plush Toy – Teddy",
+   "name_ar": "دمية دبدوب كبيرة",
+   "description_en": "A big, huggable teddy with a soft belly and a cheerful bow. A gift that gets remembered.",
+   "description_ar": "دبدوب كبير وناعم للحضن بفيونكة مرحة. هدية ما تنتسى.",
+   "price": 20000,
+   "sale_price": null,
+   "cost": 11500,
+   "stock": 15,
+   "featured": true,
+   "best_seller": true,
+   "days_ago": 45,
+   "art": {
+    "kind": "plush-teddy",
+    "bg": "yellow",
+    "body": "#C98F5E",
+    "accent": "#FFD93D"
+   }
+  },
+  {
+   "slug": "large-bunny-plush",
+   "category": "plushies",
+   "name_en": "Large Plush Toy – Bunny",
+   "name_ar": "دمية أرنب كبيرة",
+   "description_en": "A big, soft bunny with floppy ears. Made for hugs and bedtime stories.",
+   "description_ar": "أرنب كبير وناعم بأذان مرتخية. مخلوق للحضن وقصص قبل النوم.",
+   "price": 22000,
+   "sale_price": 19000,
+   "cost": 12500,
+   "stock": 12,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 18,
+   "art": {
+    "kind": "plush-bunny",
+    "bg": "purple",
+    "body": "#FFF4E0",
+    "accent": "#A78BFA"
+   }
+  },
+  {
+   "slug": "star-buddy-plush",
+   "category": "plushies",
+   "name_en": "Star Buddy Plush",
+   "name_ar": "دمية النجمة الصديقة",
+   "description_en": "A sunny little star with rosy cheeks. Small enough to carry, big enough to love.",
+   "description_ar": "نجمة صغيرة مشرقة بخدود وردية. صغيرة تنشال وكبيرة تنحب.",
+   "price": 15000,
+   "sale_price": null,
+   "cost": 8250,
+   "stock": 34,
+   "featured": true,
+   "best_seller": false,
+   "days_ago": 6,
+   "art": {
+    "kind": "plush-star",
+    "bg": "blue",
+    "body": "#FFD93D",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "sparkle-fox-figure",
+   "category": "collectibles",
+   "name_en": "Collectible Figure – Sparkle Fox",
+   "name_ar": "مجسّم للجمع – الثعلب اللامع",
+   "description_en": "A little fox figure with a big head and a bigger smile. Collect the whole series.",
+   "description_ar": "مجسّم ثعلب صغير برأس كبير وابتسامة أكبر. اجمع السلسلة كاملة.",
+   "price": 12000,
+   "sale_price": null,
+   "cost": 6600,
+   "stock": 40,
+   "featured": true,
+   "best_seller": true,
+   "days_ago": 25,
+   "art": {
+    "kind": "figure-fox",
+    "bg": "purple",
+    "body": "#FF9A5C",
+    "accent": "#FFF4E0"
+   }
+  },
+  {
+   "slug": "sleepy-bear-figure",
+   "category": "collectibles",
+   "name_en": "Collectible Figure – Sleepy Bear",
+   "name_ar": "مجسّم للجمع – الدبدوب النعسان",
+   "description_en": "A drowsy little bear figure in a cosy nightcap. Looks great on a desk or shelf.",
+   "description_ar": "مجسّم دبدوب نعسان بقبعة نوم دافئة. شكله حلو على المكتب أو الرف.",
+   "price": 12000,
+   "sale_price": null,
+   "cost": 6600,
+   "stock": 36,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 11,
+   "art": {
+    "kind": "figure-bear",
+    "bg": "blue",
+    "body": "#C9A17A",
+    "accent": "#A78BFA"
+   }
+  },
+  {
+   "slug": "cloud-pup-figure",
+   "category": "collectibles",
+   "name_en": "Collectible Figure – Cloud Pup",
+   "name_ar": "مجسّم للجمع – الجرو السحابي",
+   "description_en": "A fluffy cloud-coloured pup with floppy ears. Sold out right now – check back soon.",
+   "description_ar": "جرو بلون الغيم بأذان مرتخية. نفدت الكمية حالياً – ارجع شوفه قريباً.",
+   "price": 12000,
+   "sale_price": null,
+   "cost": 6600,
+   "stock": 0,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 12,
+   "art": {
+    "kind": "figure-pup",
+    "bg": "pink",
+    "body": "#F4F1FF",
+    "accent": "#49C1FF"
+   }
+  },
+  {
+   "slug": "mini-figure-blind-bag",
+   "category": "collectibles",
+   "name_en": "Mini Figure Blind Bag",
+   "name_ar": "كيس مفاجآت مجسّم ميني",
+   "description_en": "One sealed bag, one surprise mini figure. You won't know which one you got until you open it.",
+   "description_ar": "كيس مغلق، مجسّم ميني مفاجأة. ما تعرف شنو طلعلك إلا لما تفتحه.",
+   "price": 8000,
+   "sale_price": null,
+   "cost": 4400,
+   "stock": 60,
+   "featured": false,
+   "best_seller": true,
+   "days_ago": 33,
+   "art": {
+    "kind": "blind-bag",
+    "bg": "yellow",
+    "body": "#A78BFA",
+    "accent": "#FFD93D"
+   }
+  },
+  {
+   "slug": "rainbow-pop-it",
+   "category": "fidget-toys",
+   "name_en": "Fidget Toy – Rainbow Pop-It",
+   "name_ar": "لعبة فيدجت – بوب إت قوس قزح",
+   "description_en": "Press every bubble, flip it over and press them again. Endless, satisfying, rainbow-coloured fun.",
+   "description_ar": "اضغط كل الفقاعات، اقلبها واضغطها مرة ثانية. متعة ما تخلص بألوان قوس قزح.",
+   "price": 7500,
+   "sale_price": null,
+   "cost": 4000,
+   "stock": 90,
+   "featured": true,
+   "best_seller": true,
+   "days_ago": 38,
+   "art": {
+    "kind": "fidget-popit",
+    "bg": "cream",
+    "body": "#FF6B9D",
+    "accent": "#FFD93D"
+   }
+  },
+  {
+   "slug": "rainbow-fidget-spinner",
+   "category": "fidget-toys",
+   "name_en": "Rainbow Fidget Spinner",
+   "name_ar": "سبنر فيدجت ملوّن",
+   "description_en": "A smooth, colourful three-arm spinner. Flick it and watch the colours blur.",
+   "description_ar": "سبنر ملوّن بثلاث أذرع ويلف بسلاسة. دزّه وشوف الألوان تذوب ببعض.",
+   "price": 6000,
+   "sale_price": null,
+   "cost": 3250,
+   "stock": 75,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 22,
+   "art": {
+    "kind": "fidget-spinner",
+    "bg": "purple",
+    "body": "#49C1FF",
+    "accent": "#FFD93D"
+   }
+  },
+  {
+   "slug": "click-fidget-cube",
+   "category": "fidget-toys",
+   "name_en": "Click Fidget Cube",
+   "name_ar": "مكعب فيدجت بالأزرار",
+   "description_en": "A pocket cube with buttons to click, a dial to turn and a switch to flip.",
+   "description_ar": "مكعب بحجم الجيب بأزرار للضغط وقرص للتدوير ومفتاح للقلب.",
+   "price": 9000,
+   "sale_price": null,
+   "cost": 5000,
+   "stock": 44,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 8,
+   "art": {
+    "kind": "fidget-cube",
+    "bg": "yellow",
+    "body": "#A78BFA",
+    "accent": "#FF6B9D"
+   }
+  },
+  {
+   "slug": "squeezy-stress-ball",
+   "category": "fidget-toys",
+   "name_en": "Squeezy Stress Ball",
+   "name_ar": "كرة الضغط المرنة",
+   "description_en": "A soft, bouncy ball you can squeeze and roll. Great for busy hands.",
+   "description_ar": "كرة ناعمة ترتد، تعصرها وتدحرجها. حلوة للأيدي اللي ما تهدأ.",
+   "price": 4500,
+   "sale_price": 3500,
+   "cost": 2500,
+   "stock": 58,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 16,
+   "art": {
+    "kind": "fidget-ball",
+    "bg": "pink",
+    "body": "#49C1FF",
+    "accent": "#FFD93D"
+   }
+  },
+  {
+   "slug": "rainbow-spring-coil",
+   "category": "fidget-toys",
+   "name_en": "Rainbow Spring Coil",
+   "name_ar": "زنبرك قوس قزح",
+   "description_en": "A bouncy rainbow spring that walks, stretches and springs back.",
+   "description_ar": "زنبرك ملوّن يمشي ويتمدد ويرجع مكانه.",
+   "price": 3500,
+   "sale_price": null,
+   "cost": 1750,
+   "stock": 3,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 2,
+   "art": {
+    "kind": "fidget-coil",
+    "bg": "blue",
+    "body": "#FF6B9D",
+    "accent": "#FFD93D"
+   }
+  },
+  {
+   "slug": "mystery-box",
+   "category": "mystery-boxes",
+   "name_en": "Mystery Box",
+   "name_ar": "صندوق المفاجآت",
+   "description_en": "A sealed box full of surprises from across our shelves. Contents are a surprise and vary by box.",
+   "description_ar": "صندوق مغلق مليان مفاجآت من رفوف المتجر. المحتويات مفاجأة وتختلف من صندوق لصندوق.",
+   "price": 15000,
+   "sale_price": null,
+   "cost": 8000,
+   "stock": 30,
+   "featured": true,
+   "best_seller": true,
+   "days_ago": 42,
+   "art": {
+    "kind": "mystery-box",
+    "bg": "purple",
+    "body": "#FFD93D",
+    "accent": "#FF6B9D",
+    "badge": null
+   }
+  },
+  {
+   "slug": "squishy-mystery-box",
+   "category": "mystery-boxes",
+   "name_en": "Mystery Box – Squishy Edition",
+   "name_ar": "صندوق المفاجآت – نسخة السكويشي",
+   "description_en": "A mystery box with a squishy theme. Contents are a surprise and vary by box.",
+   "description_ar": "صندوق مفاجآت بطابع السكويشي. المحتويات مفاجأة وتختلف من صندوق لصندوق.",
+   "price": 15000,
+   "sale_price": null,
+   "cost": 8000,
+   "stock": 25,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 5,
+   "art": {
+    "kind": "mystery-box",
+    "bg": "pink",
+    "body": "#49C1FF",
+    "accent": "#FFD93D",
+    "badge": "squishy"
+   }
+  },
+  {
+   "slug": "plush-mystery-box",
+   "category": "mystery-boxes",
+   "name_en": "Mystery Box – Plush Edition",
+   "name_ar": "صندوق المفاجآت – نسخة الدمى",
+   "description_en": "A bigger mystery box with a plush theme. Contents are a surprise and vary by box.",
+   "description_ar": "صندوق مفاجآت أكبر بطابع الدمى القطنية. المحتويات مفاجأة وتختلف من صندوق لصندوق.",
+   "price": 25000,
+   "sale_price": 22000,
+   "cost": 14000,
+   "stock": 18,
+   "featured": false,
+   "best_seller": false,
+   "days_ago": 3,
+   "art": {
+    "kind": "mystery-box",
+    "bg": "yellow",
+    "body": "#FF6B9D",
+    "accent": "#A78BFA",
+    "badge": "plush"
+   }
+  }
+ ]
+}

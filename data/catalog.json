@@ -1,0 +1,191 @@
+{
+ "_note": "Single source of truth for the SAMPLE catalogue. Used by (1) preview/demo mode when Supabase is not configured, (2) scripts/generate-seed-sql.ts to build supabase/seed.sql, (3) scripts/generate-product-art.mjs to draw placeholder product illustrations. All prices are IQD demonstration values. Replace with real inventory in the admin dashboard.",
+ "categories": [
+  {
+   "slug": "squishies",
+   "name_en": "Squishies",
+   "name_ar": "سكويشي",
+   "description_en": "Soft, squeezy and impossible to put down.",
+   "description_ar": "ناعمة وطرية ومن الصعب تتركها من إيدك.",
+   "image": null,
+   "color": "pink",
+   "sort_order": 1
+  },
+  {
+   "slug": "plushies",
+   "name_en": "Plushies",
+   "name_ar": "دمى قطنية",
+   "description_en": "Cuddly friends and cute keychains.",
+   "description_ar": "دمى ناعمة للحضن وميداليات لطيفة.",
+   "image": null,
+   "color": "yellow",
+   "sort_order": 2
+  },
+  {
+   "slug": "collectibles",
+   "name_en": "Collectibles",
+   "name_ar": "مقتنيات",
+   "description_en": "Little figures to collect and display.",
+   "description_ar": "مجسّمات صغيرة للجمع والعرض.",
+   "image": null,
+   "color": "purple",
+   "sort_order": 3
+  },
+  {
+   "slug": "fidget-toys",
+   "name_en": "Fidget Toys",
+   "name_ar": "ألعاب الفيدجت",
+   "description_en": "Click, pop, spin and squeeze.",
+   "description_ar": "اضغط، فرقع، لفّ واعصر.",
+   "image": null,
+   "color": "blue",
+   "sort_order": 4
+  },
+  {
+   "slug": "mystery-boxes",
+   "name_en": "Mystery Boxes",
+   "name_ar": "صناديق المفاجآت",
+   "description_en": "Open it and find out. Every box is a surprise!",
+   "description_ar": "افتحه واكتشف. كل صندوق مفاجأة!",
+   "image": null,
+   "color": "pink",
+   "sort_order": 5
+  }
+ ],
+ "products": [],
+ "delivery_fees": [
+  {
+   "code": "baghdad",
+   "name_en": "Baghdad",
+   "name_ar": "بغداد",
+   "fee": 5000,
+   "sort_order": 1
+  },
+  {
+   "code": "basra",
+   "name_en": "Basra",
+   "name_ar": "البصرة",
+   "fee": 6000,
+   "sort_order": 2
+  },
+  {
+   "code": "nineveh",
+   "name_en": "Nineveh",
+   "name_ar": "نينوى",
+   "fee": 7000,
+   "sort_order": 3
+  },
+  {
+   "code": "erbil",
+   "name_en": "Erbil",
+   "name_ar": "أربيل",
+   "fee": 7000,
+   "sort_order": 4
+  },
+  {
+   "code": "sulaymaniyah",
+   "name_en": "Sulaymaniyah",
+   "name_ar": "السليمانية",
+   "fee": 7500,
+   "sort_order": 5
+  },
+  {
+   "code": "duhok",
+   "name_en": "Duhok",
+   "name_ar": "دهوك",
+   "fee": 8000,
+   "sort_order": 6
+  },
+  {
+   "code": "kirkuk",
+   "name_en": "Kirkuk",
+   "name_ar": "كركوك",
+   "fee": 6500,
+   "sort_order": 7
+  },
+  {
+   "code": "anbar",
+   "name_en": "Anbar",
+   "name_ar": "الأنبار",
+   "fee": 7000,
+   "sort_order": 8
+  },
+  {
+   "code": "najaf",
+   "name_en": "Najaf",
+   "name_ar": "النجف",
+   "fee": 6000,
+   "sort_order": 9
+  },
+  {
+   "code": "karbala",
+   "name_en": "Karbala",
+   "name_ar": "كربلاء",
+   "fee": 6000,
+   "sort_order": 10
+  },
+  {
+   "code": "babil",
+   "name_en": "Babil",
+   "name_ar": "بابل",
+   "fee": 5500,
+   "sort_order": 11
+  },
+  {
+   "code": "wasit",
+   "name_en": "Wasit",
+   "name_ar": "واسط",
+   "fee": 6000,
+   "sort_order": 12
+  },
+  {
+   "code": "diyala",
+   "name_en": "Diyala",
+   "name_ar": "ديالى",
+   "fee": 6000,
+   "sort_order": 13
+  },
+  {
+   "code": "salah-al-din",
+   "name_en": "Salah al-Din",
+   "name_ar": "صلاح الدين",
+   "fee": 6500,
+   "sort_order": 14
+  },
+  {
+   "code": "dhi-qar",
+   "name_en": "Dhi Qar",
+   "name_ar": "ذي قار",
+   "fee": 6500,
+   "sort_order": 15
+  },
+  {
+   "code": "maysan",
+   "name_en": "Maysan",
+   "name_ar": "ميسان",
+   "fee": 7000,
+   "sort_order": 16
+  },
+  {
+   "code": "muthanna",
+   "name_en": "Muthanna",
+   "name_ar": "المثنى",
+   "fee": 7000,
+   "sort_order": 17
+  },
+  {
+   "code": "qadisiyyah",
+   "name_en": "Qadisiyyah",
+   "name_ar": "القادسية",
+   "fee": 6000,
+   "sort_order": 18
+  },
+  {
+   "code": "halabja",
+   "name_en": "Halabja",
+   "name_ar": "حلبجة",
+   "fee": 8000,
+   "sort_order": 19
+  }
+ ]
+}
