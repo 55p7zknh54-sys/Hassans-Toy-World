@@ -10,7 +10,10 @@ import type { Category, DeliveryFee, Product, Review, StoreSettings } from './ty
  * If Supabase is not configured the sample catalogue in data/catalog.json is used (preview mode).
  */
 
-type DemoProduct = (typeof catalogJson.products)[number];
+type DemoProduct = {
+  slug: string; category: string; name_en: string; name_ar: string; description_en: string; description_ar: string;
+  price: number; sale_price: number | null; stock: number; featured: boolean; best_seller: boolean; days_ago: number;
+};
 
 const DEMO_SETTINGS: StoreSettings = {
   whatsapp_number: null,
@@ -46,7 +49,7 @@ function demoCategories(): Category[] {
 
 function demoProducts(): Product[] {
   const day = 86_400_000;
-  return catalogJson.products.map((p: DemoProduct) => ({
+  return (catalogJson.products as DemoProduct[]).map((p) => ({
     id: p.slug,
     slug: p.slug,
     category_id: p.category,
